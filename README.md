@@ -6,3 +6,7 @@ Order of execution:
 1. Data_preparation.ipynb (Data Analysis and preparation)
 2. Prediction_A.ipynb (Preparation and classification on a subset data_clear_pkl)
 3. Prediction_B.ipynb (Preparation and classification on a subset data_bins.pkl)
+
+Datasets in "data" folder:
+A_dataset_results.pkl
+B_dataset_results.pkl
