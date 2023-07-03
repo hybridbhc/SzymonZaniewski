@@ -8,5 +8,5 @@ Order of execution:
 3. Prediction_B.ipynb (Preparation and classification on a subset data_bins.pkl)
 
 Datasets in "data" folder:
-A_dataset_results.pkl
+A_dataset_results.pkl,
 B_dataset_results.pkl
